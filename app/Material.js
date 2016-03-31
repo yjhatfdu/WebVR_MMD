@@ -1,0 +1,38 @@
+System.register([], function(exports_1) {
+    function getMaterial(loader) {
+        var materialList = [];
+        var pmdPath = loader.url;
+        var pathParts = pmdPath.split('/');
+        pathParts = pathParts.slice(0, pathParts.length - 1);
+        pmdPath = pathParts.join('/');
+        for (var _i = 0, _a = loader.materials; _i < _a.length; _i++) {
+            var material = _a[_i];
+            var texture = void 0;
+            var newMaterial = new THREE.MeshPhongMaterial({});
+            if (material.texture_file_name) {
+                texture = new THREE.TextureLoader().load(pmdPath + '/' + material.texture_file_name);
+                newMaterial.map = texture;
+                //newMaterial.color=texture;
+                //newMaterial.map=texture;
+                //newMaterial.specularMap=texture;
+                window['testm'] = newMaterial;
+            }
+            newMaterial.shininess = material.shininess;
+            newMaterial.color = new THREE.Color(material.diffuse[0], material.diffuse[1], material.diffuse[2]);
+            newMaterial.specular = new THREE.Color(material.specular[0], material.specular[1], material.specular[2]);
+            //newMaterial.emissive=new THREE.Color(material.ambient[0],material.ambient[1],material.ambient[2]);
+            //newMaterial.skinning=true;
+            newMaterial.depthWrite = true;
+            newMaterial.depthTest = true;
+            materialList.push(newMaterial);
+        }
+        return new THREE.MultiMaterial(materialList);
+    }
+    exports_1("getMaterial", getMaterial);
+    return {
+        setters:[],
+        execute: function() {
+        }
+    }
+});
+//# sourceMappingURL=Material.js.map

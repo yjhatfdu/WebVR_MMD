@@ -1,0 +1,341 @@
+# Blender MTL File: 'None'
+# Material Count: 32
+
+newmtl Nails
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd body00_MikuAp_b.tga
+map_d body00_MikuAp_b.tga
+
+newmtl body
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd body00_MikuAp_b.tga
+map_d body00_MikuAp_b.tga
+
+newmtl body03
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd body02_MikuAp.tga
+map_d body02_MikuAp.tga
+
+newmtl cheek
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd face_MikuAp_b.tga
+map_d face_MikuAp_b.tga
+
+newmtl eye_hi
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd face_MikuAp_b.tga
+map_d face_MikuAp_b.tga
+
+newmtl eye_hi2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd face_MikuAp_b.tga
+map_d face_MikuAp_b.tga
+
+newmtl face00
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd face_MikuAp_b.tga
+map_d face_MikuAp_b.tga
+
+newmtl face01
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd face_MikuAp_b.tga
+map_d face_MikuAp_b.tga
+
+newmtl hair00
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.709020 0.709020 0.709020
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd hair_MikuAp.dds
+map_d hair_MikuAp.dds
+
+newmtl hair01
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.709020 0.709020 0.709020
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd hair_MikuAp.dds
+map_d hair_MikuAp.dds
+
+newmtl hairshadow
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd face_MikuAp.png
+map_d face_MikuAp.png
+
+newmtl lens
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd body02_MikuAp.tga
+map_d body02_MikuAp.tga
+
+newmtl mmd_tools_rigid_0
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.498039 0.866667 0.831373
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.500000
+illum 0
+
+newmtl mmd_tools_rigid_1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.941176 0.901961 0.549020
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.500000
+illum 0
+
+newmtl mmd_tools_rigid_14
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.439216 0.086275 0.509804
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.500000
+illum 0
+
+newmtl mmd_tools_rigid_2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.933333 0.509804 0.933333
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.500000
+illum 0
+
+newmtl pigline
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.709020 0.709020 0.709020
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd hair_MikuAp.dds
+map_d hair_MikuAp.dds
+
+newmtl 新規
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.144314 0.116078 0.062745
+Ks 0.111765 0.105882 0.062745
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd body00_MikuAp_b.tga
+map_d body00_MikuAp_b.tga
+
+newmtl 新規.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.709020 0.709020 0.709020
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd hair_MikuAp.dds
+map_d hair_MikuAp.dds
+
+newmtl 材質0
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.084706 0.081569 0.112941
+Ks 0.000000 0.045098 0.092157
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd body00_s.bmp
+
+newmtl 材質1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.712157 0.709020 0.737255
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd hat.png
+map_d hat.png
+
+newmtl 材質10
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.712157 0.709020 0.737255
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tie.png
+map_d tie.png
+
+newmtl 材質2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.712157 0.709020 0.737255
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd flower.png
+map_d flower.png
+
+newmtl 材質3
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.712157 0.709020 0.737255
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd dress.png
+map_d dress.png
+
+newmtl 材質4
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.712157 0.709020 0.737255
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd body00_s.bmp
+
+newmtl 材質5
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.166274 0.084706 0.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd metallic.bmp
+
+newmtl 材質6
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.712157 0.709020 0.737255
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd jacket.png
+map_d jacket.png
+
+newmtl 材質7
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.712157 0.709020 0.737255
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd diamond.jpg
+map_d diamond.jpg
+
+newmtl 材質8
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.746667 0.687059 0.730980
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd dress.png
+map_d dress.png
+
+newmtl 材質9
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.069020 0.094118 0.175686
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd body00_s.bmp
+
+newmtl 水着下
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd body00_s.bmp
+
+newmtl 首
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd face_MikuAp_b.tga
+map_d face_MikuAp_b.tga
